@@ -45,6 +45,7 @@
 
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/nripeshn)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/nripeshn)
+[![MacOS](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=Apple&link=https%3A%2F%2Fwww.hiclipart.com%2Ffree-transparent-background-png-clipart-byjoa)](https://github.com/nripeshn)
 
 <details>
 <p align="center">
