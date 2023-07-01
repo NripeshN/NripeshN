@@ -4,8 +4,8 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Nripesh.<br>
-        Currently learning to walk in ML/DL without falling on my bottom.<br>
-        Open to collaborating on interesting and innovative projects.<br>
+        I'm currently sharpening my skills in ML/DL, always excited to overcome new challenges.<br>
+        I'm open to collaborations on projects that are innovative and push the boundaries of technology.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/nripeshn/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
