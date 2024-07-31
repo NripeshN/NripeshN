@@ -4,17 +4,13 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Nripesh.<br>
-        I'm currently sharpening my skills in ML/DL, always excited to overcome new challenges.<br>
-        I'm open to collaborations on projects that are innovative and push the boundaries of technology.<br>
+        Founder & CEO @CrossGL.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/nripeshn/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="mailto:nripesh14@gmail.com">
         <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
-    </a>
-    <a href="https://www.kaggle.com/nripeshniketan">
-        <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
     </a>
 </p>
 
