@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="title desc"><title id="title">Me against my own chess engine</title><desc id="desc">Me: FIDE 1715, Lichess bullet 1619. My engine MetalFish: Lichess bullet 3074, 1,207 games, 81% drawn. By the Elo formula my expected score against it is 0.02%. Data as of 2026-10-28.</desc><defs><linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff6b57"/><stop offset=".55" stop-color="#a78bfa"/><stop offset="1" stop-color="#22d3ee"/></linearGradient><style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+    .ink { fill: #f0f0f5; }
+    .muted { fill: #9a9ab0; }
+    
+    .head { font-size: 13px; }
+    .kicker { font-size: 12px; letter-spacing: 1.8px; font-weight: 600; }
+    .who { font-size: 30px; font-weight: 700; }
+    .line { font-size: 16px; }
+    .note { font-size: 14px; }
+    .vs { font-size: 16px; font-weight: 600; }
+    .eval { font-size: 13px; font-weight: 700; }
+    .cap { font-size: 15px; }
+    </style></defs><rect x="1" y="1" width="998" height="298" rx="22" fill="#0a0a0f" stroke="#262636" stroke-width="1.5"/><text x="32.0" y="34.0" class="mono head muted">$ ./versus --me --my-engine</text><text x="968.0" y="34.0" class="sans head muted" text-anchor="end">Lichess + FIDE · data as of 2026-10-28</text><text x="40.0" y="74.0" class="sans kicker muted">THE HUMAN</text><text x="40.0" y="110.0" class="sans who ink">Nripesh</text><text x="40.0" y="138.0" class="sans line ink">FIDE 1715 · Lichess bullet 1619</text><text x="40.0" y="162.0" class="sans note muted">plays for Sheffield University</text><text x="960.0" y="74.0" class="sans kicker muted" text-anchor="end">THE ENGINE</text><text x="960.0" y="110.0" class="sans who ink" text-anchor="end">MetalFish</text><text x="960.0" y="138.0" class="sans line ink" text-anchor="end">Lichess bullet 3074 · BOT</text><text x="960.0" y="162.0" class="sans note muted" text-anchor="end">1,207 games, 81% drawn. A pacifist.</text><circle cx="500" cy="112" r="24" fill="#14141d" stroke="#262636" stroke-width="1.5"/><text x="500.0" y="117.5" class="sans vs muted" text-anchor="middle">vs</text><rect x="40.0" y="190.0" width="920.0" height="22.0" rx="11" fill="url(#bar)"/><path d="M51.0 190.0H49.0V212.0H51.0A11 11 0 0 1 51.0 190.0Z" fill="#f0f0f5"/><text x="948.0" y="205.5" class="mono eval" text-anchor="end" fill="#0a0a0f">+14.6</text><text x="40.0" y="232.0" class="sans note muted">me</text><text x="960.0" y="232.0" class="sans note muted" text-anchor="end">my engine</text><text x="500.0" y="270.0" class="sans cap ink" text-anchor="middle">Expected score against my own engine: 0.02%. The bar is being generous.</text></svg>

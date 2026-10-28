@@ -1,0 +1,26 @@
+{
+  "values": {
+    "bot_bullet": 3074,
+    "bot_draws": 982,
+    "bot_games": 1207,
+    "contributions_year": 3986,
+    "crosstl_stars": 1666,
+    "crosstl_version": "3.4.0",
+    "fide_standard": 1715,
+    "me_bullet": 1619,
+    "upstream_prs": 96,
+    "upstream_repos": 23
+  },
+  "as_of": {
+    "bot_bullet": "2026-10-28",
+    "bot_draws": "2026-10-28",
+    "bot_games": "2026-10-28",
+    "contributions_year": "2026-10-28",
+    "crosstl_stars": "2026-10-28",
+    "crosstl_version": "2026-10-28",
+    "fide_standard": "2026-10-28",
+    "me_bullet": "2026-10-28",
+    "upstream_prs": "2026-10-28",
+    "upstream_repos": "2026-10-28"
+  }
+}

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="188" viewBox="0 0 1000 188" role="img" aria-labelledby="title desc"><title id="title">Nripesh by the numbers</title><desc id="desc">1,666 GitHub stars on CrossTL; 96 pull requests merged into 23 other people's repositories; 3,986 contributions in the last year; crosstl v3.4.0 on PyPI. Data as of 2026-10-28.</desc><defs><style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+    .ink { fill: #f0f0f5; }
+    .muted { fill: #9a9ab0; }
+    
+    .head { font-size: 13px; }
+    .big { font-size: 38px; font-weight: 700; }
+    .label { font-size: 15px; font-weight: 600; }
+    .foot { font-size: 12.5px; }
+    .footmono { font-size: 12px; }
+    </style></defs><rect x="1" y="1" width="998" height="186" rx="22" fill="#0a0a0f" stroke="#262636" stroke-width="1.5"/><text x="32.0" y="34.0" class="mono head muted">$ nripesh --stats</text><text x="968.0" y="34.0" class="sans head muted" text-anchor="end">refreshed weekly · data as of 2026-10-28</text><rect x="32" y="52" width="222" height="112" rx="14" fill="#14141d" stroke="#262636"/><text x="50.0" y="100.0" class="sans big" fill="#ff6b57">1,666</text><text x="50.0" y="126.0" class="sans label ink">stars on CrossTL</text><text x="50.0" y="148.0" class="sans foot muted">thank you, strangers</text><rect x="270" y="52" width="222" height="112" rx="14" fill="#14141d" stroke="#262636"/><text x="288.0" y="100.0" class="sans big" fill="#22d3ee">96</text><text x="288.0" y="126.0" class="sans label ink">PRs merged upstream</text><text x="288.0" y="148.0" class="sans foot muted">into 23 other people's repos</text><rect x="508" y="52" width="222" height="112" rx="14" fill="#14141d" stroke="#262636"/><text x="526.0" y="100.0" class="sans big" fill="#a78bfa">3,986</text><text x="526.0" y="126.0" class="sans label ink">contributions (1 yr)</text><text x="526.0" y="148.0" class="sans foot muted">some were formatter bumps</text><rect x="746" y="52" width="222" height="112" rx="14" fill="#14141d" stroke="#262636"/><text x="764.0" y="100.0" class="sans big" fill="#34d399">v3.4.0</text><text x="764.0" y="126.0" class="sans label ink">crosstl on PyPI</text><text x="764.0" y="148.0" class="mono footmono muted">pip install crosstl</text></svg>
