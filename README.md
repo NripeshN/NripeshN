@@ -29,9 +29,6 @@ I'm Nripesh. I write compilers so GPU code only has to be written once, and ches
 - **Before that:** ML engineer and then developer-relations lead at [Unify](https://unify.ai), an AI/ML internship at AAICO in Abu Dhabi, and an IT internship at Emerson in Dubai.
 - **Ask me about:** IR design, codegen, Metal vs CUDA, Apple Silicon, MCTS, or why your translated shader compiles and then computes something else.
 
-> [!TIP]
-> I'm looking for compiler, GPU and ML-systems roles in the UK, and for a funded PhD in compilers for heterogeneous hardware from October 2027. [Say hi](mailto:nripesh14@gmail.com).
-
 <!-- stats-card:start -->
 <a href="https://github.com/search?q=author%3ANripeshN+is%3Apr+is%3Amerged+-user%3ACrossGL+-user%3ANripeshN&amp;type=pullrequests">
   <picture>
