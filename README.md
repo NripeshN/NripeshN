@@ -33,7 +33,7 @@ I'm Nripesh. I write compilers so GPU code only has to be written once, and ches
 <a href="https://github.com/search?q=author%3ANripeshN+is%3Apr+is%3Amerged+-user%3ACrossGL+-user%3ANripeshN&amp;type=pullrequests">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-    <img src="assets/stats-light.svg" width="100%" alt="1,666 stars on CrossTL. 96 pull requests merged into 23 other people's repositories. 3,986 contributions in the last year. crosstl v3.4.0 on PyPI. Data as of 2026-10-28.">
+    <img src="assets/stats-light.svg" width="100%" alt="1,811 stars on CrossTL. 96 pull requests merged into 23 other people's repositories. 4,226 contributions in the last year. crosstl v3.5.0 on PyPI. Data as of 2026-11-02.">
   </picture>
 </a>
 <!-- stats-card:end -->
@@ -134,7 +134,7 @@ I play chess for Sheffield University in the Sheffield & District league, and I 
 <a href="https://lichess.org/@/Nripesh-MetalFish">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/chess-dark.svg">
-    <img src="assets/chess-light.svg" width="100%" alt="Me against my own chess engine. Me: FIDE 1715, Lichess bullet 1619. MetalFish: Lichess bullet 3074, 1,207 games, 81% drawn. My expected score against it is 0.02%. Data as of 2026-10-28.">
+    <img src="assets/chess-light.svg" width="100%" alt="Me against my own chess engine. Me: FIDE 1715, Lichess bullet 1619. MetalFish: Lichess bullet 3074, 1,207 games, 81% drawn. My expected score against it is 0.02%. Data as of 2026-11-02.">
   </picture>
 </a>
 <!-- chess-card:end -->
